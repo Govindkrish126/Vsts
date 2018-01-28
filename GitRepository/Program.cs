@@ -10,8 +10,9 @@ namespace GitRepository
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Console Application");
+            Console.WriteLine("Welcome to Console Application");
             Console.ReadLine();
+
         }
     }
 }
